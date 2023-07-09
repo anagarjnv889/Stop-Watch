@@ -1,2 +1,1 @@
-# Stop-Watch
-Stop Watch using HTML, CSS and Basics of JavaScript
+Create a stopwatch app. Use Only HTML, CSS and basics of javascript, no libraries or frameworks allowed for Javascript (you can use any CSS framework like Bootstrap).
